@@ -1,4 +1,5 @@
 magento-DPD_Shipping
 ====================
 
-You can find the official release here: http://www.magentocommerce.com/magento-connect/dpd-shipping.html
+You can finde the latest release here: https://github.com/DPDBeNeLux/magento-DPD_Shipping/archive/master.zip
+For connecting to DIS: DPD Integration Services
